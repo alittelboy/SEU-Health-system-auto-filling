@@ -1,5 +1,6 @@
 #使用前，请安装Firefox和geckodriver，后者请放在path系统路径
-#author:辣鸡土豆
+#author:
+#https://github.com/alittelboy/SEU-Health-system-auto-filling
 from selenium import webdriver
 import time
 
